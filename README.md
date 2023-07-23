@@ -1,16 +1,18 @@
-### Hi there 👋
+### Education
+---
+- Faculty of Technical Sciences in Novi Sad, Serbia: Software Engineering 
+- Faculty of Sciences in Novi Sad, Serbia: Physics
 
-<!--
-**bubnjevich/bubnjevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,angular,java,python,net,aws,cpp,androidstudio,mysql,go,figma)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+---
+[Black body temperature prediction in physics using CNN and Regression](https://github.com/bubnjevich/BlackBodyTempPrediction)
+[Uber app clone web application](https://github.com/orgs/Uber-Team-3-Application/repositories)
+[Web application for issuing SSL certificates ](https://github.com/InformationalSecurityTeam11/)
+[Desktop application to support the toll plaza system](https://github.com/bubnjevich/SIMS_Naplatne_Rampe)
+[Aws Cloud File Store System](https://github.com/CloudProjectTeam11)
+[Implementation of the NoSql database in Go](https://github.com/saki2/NASPprojekat)
+[Travel system in wpf](https://github.com/bubnjevich/Project01Hci)
