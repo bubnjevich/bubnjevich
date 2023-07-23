@@ -13,7 +13,7 @@
 [Uber app clone web application](https://github.com/orgs/Uber-Team-3-Application/repositories)<br/>
 [Web application for issuing SSL certificates ](https://github.com/InformationalSecurityTeam11/)<br/>
 [The toll plaza system using Swing](https://github.com/bubnjevich/SIMS_Naplatne_Rampe)<br/>
-[Aws Cloud File Store System](https://github.com/CloudProjectTeam11)<br/>
+[Aws Cloud File Store System](https://github.com/CloudProjectTeam11/repositories)<br/>
 [Implementation of the NoSql database in Go](https://github.com/saki2/NASPprojekat)<br/>
 [Travel system in wpf](https://github.com/bubnjevich/Project01Hci)<br/>
 [Uber app clone web application](https://github.com/orgs/Uber-Team-3-Application/repositories)<br/>
