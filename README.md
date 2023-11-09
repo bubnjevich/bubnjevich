@@ -1,7 +1,6 @@
 ### Education
 ---
 - Software Engineering, Faculty of Technical Sciences in Novi Sad, Serbia
-- Physics, Faculty of Sciences in Novi Sad, Serbia
 
 ### Skills
 ---
