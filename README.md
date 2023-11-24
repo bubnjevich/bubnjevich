@@ -4,7 +4,7 @@
 
 ### Skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,angular,java,python,net,aws,cpp,androidstudio,mysql,go,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,angular,react,java,python,net,aws,cpp,androidstudio,mysql,go,figma)](https://skillicons.dev)
 
 ### Projects
 ---
